@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KuroashiBR (Lucas)
-- 👀 I’m interested in learn Data Analysis, python and improve english
+- 👀 I’m interested in learn Data Analysis, python, economy and improve english
 - 🌱 I’m currently learning B.I. and SQL (graduating in economy)
 - 📫 How to reach me lucaspereira.sanji@gmail.com
 <!---
